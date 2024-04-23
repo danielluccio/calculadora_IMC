@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Importando os módulos necessários
 import os  # Para interagir com o sistema operacional
 from colorama import Fore  # Para adicionar cores ao texto no terminal
@@ -65,7 +64,7 @@ time.sleep(5)
 # Abre e exibe uma imagem informativa sobre obesidade
 imagem = Image.open(r"C:\Users\danie\OneDrive\Área de Trabalho\PYTHON\Função\obesidade.jpg")
 imagem.show()
-=======
+
 # Importando os módulos necessários
 import os  # Para interagir com o sistema operacional
 from colorama import Fore  # Para adicionar cores ao texto no terminal
@@ -132,4 +131,4 @@ time.sleep(5)
 # Abre e exibe uma imagem informativa sobre obesidade
 imagem = Image.open(r"C:\Users\danie\OneDrive\Área de Trabalho\PYTHON\Função\obesidade.jpg")
 imagem.show()
->>>>>>> 3f9294ab6efbc361198d5797684454bd3e510d7a
+
