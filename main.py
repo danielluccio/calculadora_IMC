@@ -62,7 +62,7 @@ painel()
 time.sleep(5)
 
 # Abre e exibe uma imagem informativa sobre obesidade
-imagem = Image.open(r"C:\Users\danie\OneDrive\Área de Trabalho\PYTHON\Função\obesidade.jpg")
+imagem = Image.open(r"obesidade.jpg")
 imagem.show()
 
 
